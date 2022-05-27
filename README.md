@@ -1,2 +1,1 @@
-# ibmqc2021
- IBM Quantum Challenge 2021
+# Various Quantum Computing Challenges & Hackathons 
