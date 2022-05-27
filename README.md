@@ -1,14 +1,33 @@
 ## Various Quantum Computing Challenges & Hackathons 
 
-### [1-IBMQ-challenge-2020](https://github.com/pratjz/QuantumChallenges/tree/main/1-IBMQ-challenge-2020)
+**[1-IBMQ-challenge-2020](https://github.com/pratjz/QuantumChallenges/tree/main/1-IBMQ-challenge-2020)**
+- [Excercise-1]()
+- [Excercise-2]()
+- [Excercise-3]()
+- [Excercise-4]()
 
-### [2-IBMQ-challenge-ICPC-2021](https://github.com/pratjz/QuantumChallenges/tree/main/2-IBMQ-challenge-ICPC-2021)
+**[2-IBMQ-challenge-ICPC-2021](https://github.com/pratjz/QuantumChallenges/tree/main/2-IBMQ-challenge-ICPC-2021)**
+- [Excercise-1]()
+- [Excercise-2]()
+- [Excercise-3]()
+- [Excercise-4]()
 
-### [3-IBMQ-challenge-May-2021](https://github.com/pratjz/QuantumChallenges/tree/main/3-IBMQ-challenge-May-2021)
+**[3-IBMQ-challenge-May-2021](https://github.com/pratjz/QuantumChallenges/tree/main/3-IBMQ-challenge-May-2021)**
+- [Excercise-1]()
+- [Excercise-2]()
+- [Excercise-3]()
+- [Excercise-4]()
 
-### [4-IBMQ-challenge-fall-2021](https://github.com/pratjz/QuantumChallenges/tree/main/4-IBMQ-challenge-fall-2021)
+**[4-IBMQ-challenge-fall-2021](https://github.com/pratjz/QuantumChallenges/tree/main/4-IBMQ-challenge-fall-2021)**
+- [Excercise-1](https://github.com/pratjz/QuantumChallenges/blob/main/4-IBMQ-challenge-fall-2021/content/challenge-1/challenge-1.ipynb)
+- [Excercise-2](https://github.com/pratjz/QuantumChallenges/blob/main/4-IBMQ-challenge-fall-2021/content/challenge-2/challenge-2.ipynb)
+- [Excercise-3](https://github.com/pratjz/QuantumChallenges/blob/main/4-IBMQ-challenge-fall-2021/content/challenge-3/challenge-3.ipynb)
+- [Excercise-4](https://github.com/pratjz/QuantumChallenges/blob/main/4-IBMQ-challenge-fall-2021/content/challenge-4/challenge-4.ipynb)
 
-### [5-IBMQ-challenge-africa-2021](https://github.com/pratjz/QuantumChallenges/tree/main/5-IBMQ-challenge-africa-2021)
+**[5-IBMQ-challenge-africa-2021](https://github.com/pratjz/QuantumChallenges/tree/main/5-IBMQ-challenge-africa-2021)**
+- [Excercise-1](https://github.com/pratjz/QuantumChallenges/blob/main/5-IBMQ-challenge-africa-2021/content/lab1/lab1.ipynb)
+- [Excercise-2](https://github.com/pratjz/QuantumChallenges/blob/main/5-IBMQ-challenge-africa-2021/content/lab2/lab2.ipynb)
+- [Excercise-3](https://github.com/pratjz/QuantumChallenges/blob/main/5-IBMQ-challenge-africa-2021/content/lab3/lab3.ipynb)
 
 **[6-IBMQ-challenge-Spring-2022](https://github.com/pratjz/QuantumChallenges/tree/main/6-IBMQ-challenge-Spring-2022)**
 - [Excercise-1](https://github.com/pratjz/QuantumChallenges/blob/main/6-IBMQ-challenge-Spring-2022/exercise1/01.CM_trotterization.ipynb)
