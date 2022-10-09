@@ -26,7 +26,7 @@
 - [Excercise-3](https://github.com/pratjz/QuantumChallenges/blob/main/5-IBMQ-challenge-africa-2021/content/lab3/lab3.ipynb)
 
 **[6-IBMQ-challenge-Spring-2022](https://github.com/pratjz/QuantumChallenges/tree/main/6-IBMQ-challenge-Spring-2022)**
-- [Excercise-1](https://github.com/pratjz/QuantumChallenges/blob/main/6-IBMQ-challenge-Spring-2022/exercise1/01.CM_trotterization.ipynb)
-- [Excercise-2](https://github.com/pratjz/QuantumChallenges/blob/main/6-IBMQ-challenge-Spring-2022/exercise2/02.QRW_and_localization.ipynb)
-- [Excercise-3](https://github.com/pratjz/QuantumChallenges/blob/main/6-IBMQ-challenge-Spring-2022/exercise3/03.many_body_localization.ipynb)
-- [Excercise-4](https://github.com/pratjz/QuantumChallenges/blob/main/6-IBMQ-challenge-Spring-2022/exercise4/04.quantum_chemistry.ipynb)
+- [Excercise-1 - CM_trotterization](https://github.com/pratjz/QuantumChallenges/blob/main/6-IBMQ-challenge-Spring-2022/exercise1/01.CM_trotterization.ipynb)
+- [Excercise-2 - QRW_and_localization](https://github.com/pratjz/QuantumChallenges/blob/main/6-IBMQ-challenge-Spring-2022/exercise2/02.QRW_and_localization.ipynb)
+- [Excercise-3 - Many_body_localization](https://github.com/pratjz/QuantumChallenges/blob/main/6-IBMQ-challenge-Spring-2022/exercise3/03.many_body_localization.ipynb)
+- [Excercise-4 - Quantum Chemistry. Electronic Structure Calculations](https://github.com/pratjz/QuantumChallenges/blob/main/6-IBMQ-challenge-Spring-2022/exercise4/04.quantum_chemistry.ipynb)
