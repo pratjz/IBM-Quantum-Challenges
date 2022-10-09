@@ -1,19 +1,4 @@
 <!--![image of qcchallenge logo](qcc_banner.png) -->
-# Welcome to IBM Quantum Challenge!
-[日本語はこちら](#ibm-quantum-challengeへようこそ)<br/>
-[한글은 여기](#ibm-quantum-challenge환영합니다)<br/>
-
-## Thank you! We have completed this challenge on Nov 30th, 2020.
-
-## Leaderboard
-The [Leaderboard](./solutions/leaderboard.md) shows the top ten scores and standings of contestants who have submitted their code to the final exercise.
-
-## How to Solve the Final Exercise
-[Sample solutions](./solutions/week-3/ex_3_solution_en.ipynb): Example solution to the final exercise with honorary mentions to the top three scorers by our judges.
-
-## Top Scorers’ Solutions
-[Top Scorers’ Solutions](https://github.com/qiskit-community/IBMQuantumChallenge2020/tree/main/submissions): How did the top scorers tackle this problem? Check out their unique and excellent solutions.
-
 
 ## The Story behind IBM Quantum Chellenge
 You can explore each story behind the adventure of Dr. Ryoko.
